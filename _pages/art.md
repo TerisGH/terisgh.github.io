@@ -19,7 +19,7 @@ title: Art
   <figcaption>Printed, cut and glued.</figcaption>
 </figure>
 <figure>
-  <img src="{{site.url}}/images/col.jpg" alt=""/>
+  <img src="{{site.url}}/images/kol.JPG" alt=""/>
   <figcaption>Paper, wood and epoxy.</figcaption>
 </figure>
 

@@ -27,3 +27,26 @@ title: CG projects
 
 ### Java2D game with editor
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CRwGNcTZBiE?rel=0;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+### a cpu path tracer using embree
+<figure>
+  <img src="{{site.url}}/images/cpu_path_tracer/output_3.png" alt=""/>
+  <!-- <figcaption>Paper, wood and epoxy.</figcaption> -->
+</figure>
+<figure>
+  <img src="{{site.url}}/images/cpu_path_tracer/output_5.png" alt=""/>
+  <!-- <figcaption>Paper, wood and epoxy.</figcaption> -->
+</figure>
+<figure>
+  <img src="{{site.url}}/images/cpu_path_tracer/output_6.png" alt=""/>
+  <!-- <figcaption>Paper, wood and epoxy.</figcaption> -->
+</figure>
+<figure>
+  <img src="{{site.url}}/images/cpu_path_tracer/output_7.png" alt=""/>
+  <!-- <figcaption>Paper, wood and epoxy.</figcaption> -->
+</figure>
+<figure>
+  <img src="{{site.url}}/images/cpu_path_tracer/output_torus.png" alt=""/>
+  <!-- <figcaption>Paper, wood and epoxy.</figcaption> -->
+</figure>
