@@ -3,9 +3,18 @@ layout: post
 title: First post
 ---
 Will blog here about some of my graphics programming projects.
-Currently working on an Vukan RTX hybrid renderer.
+Currently working on a Vukan RTX hybrid renderer.
 
-![render_sponza]({{ site.baseurl }}/images/render.jpg)
+<!-- ![render_sponza]({{ site.baseurl }}/images/render.jpg) -->
+
+<figure>
+  <img src="{{site.url}}/images/render.jpg" alt="my alt text"/>
+  <figcaption>The rendered sponza scene with ray-traced diffuse GI.</figcaption>
+</figure>
+
+My goal is to write a small vulkan renderer that would support rasterization
+and ray tracing. To achieve advanced lighting effects, I plan to implement
+ray traced irradiance probes.
 
 <!-- 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).

@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is David, I speak english, german and french.
+Currently i work as a graphics / deep learning engineer.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[daviderler@protonmail.com](mailto:daviderler@protonmail.com)
