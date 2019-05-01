@@ -9,4 +9,4 @@ Currently i work as a graphics / deep learning engineer.
 
 ### Contact me
 
-[daviderler@protonmail.com](mailto:daviderler@protonmail.com)
+[david.erler@gmail.com](mailto:david.erler@gmail.com)
